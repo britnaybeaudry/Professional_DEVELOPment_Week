@@ -1,1 +1,1 @@
-Here are just some photos for the guide, stored here for easy convenience. 
+Here are just some photos for the Professional DEVELOPment Markdown Resume guide, stored here for easy convenience. 
