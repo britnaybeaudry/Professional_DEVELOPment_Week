@@ -16,4 +16,22 @@
   * We'll be using information from both these guides to help build our resume today.
 
 ### How can I make my resume in Markdown?
+* Things you will need:
+     - [x] [A GitHub account](https://github.com/)
+     - [x] Information for your resume
+#### Step 1: Making a place on GitHub for your resume
+If you're new to GitHub, have no fear! In order to start the process for hosting your resume on here, you need to create a new repository. You can do that by clicking the new button up here at the top of the page, circled in red in the image below. You can also see a step-by-step guide [here](https://docs.github.com/en/get-started/quickstart/create-a-repo).
+<p align="center">
+  <kbd>
+    <img src="./photos/new_repo.JPG" width=400 align="center">
+  </kbd>
+</p>
 
+From here, you can name your repository. I recommend that you name it something straight to the point, like "resume" or "yourname_resume". That way, it's easier to remember what's in there. Also, make sure that the repository is set to **Public**, so that people can see it!
+<p align="center">
+  <kbd>
+    <img src="./photos/repo_name_public.JPG" width=400 align="center">
+  </kbd>
+</p>
+
+* There are a lot of great examples online of resume templates in markdown that you can use. 
