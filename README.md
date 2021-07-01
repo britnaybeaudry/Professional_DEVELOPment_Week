@@ -71,17 +71,21 @@ If you want to go even further, you can even host your resume as its own site on
 With GitHub pages, you can also incorporate HTML and CSS elements. You can make your resume even more complex, add things <em>other</em> than just your resume link a bio, blog posts, and more! The choices are yours.
  
 Here are some exmaples of excellent personal websites hosted on GitHub pages:
-  *
+  * [A list of open source projects happening on Twiter](http://twitter.github.io/)
+  * [An easy demo site that shows you the basics of what you can do](http://hankquinlan.github.io/)
+  * [Elle Townsend's website](https://www.elletownsend.co.uk/)
+  * [Karl Broman's website](https://kbroman.org/)
 
 [Here](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) is GitHub's guide on getting started with your own GitHub page.
+I also used [this tutorial](http://jmcglone.com/guides/github-pages/) as well when I created my own.
 
 #### A whole website seeming like too much right now? 
 A simpler idea is to modify your own GitHub profile to showcase you and your skills with a profile README. It's a great way to attract recruiters to your profile before they even see your code (you can even just add your resume to your profile if you want!). 
 Here are some examples of cool profile READMEs if you need inspiration
    * [Jason Lengstorf's profile](https://github.com/jlengstorf)
-   * [Cassidy Williams' profile](https://github.com/cassidoo)
    * [Donavon West's profile](https://github.com/donavon)
    * [Cyris' profile](https://github.com/CyrisXD)
+   * [Nate Moore's profile](https://github.com/natemoo-re)
    * Here's [my own](https://github.com/britnaybeaudry) that I created after following the tutorial below!
    
-[Here](https://aboutmonica.com/blog/how-to-create-a-github-profile-readme) is a guide to get started on creating a profile README on your own page!
+[Here](https://aboutmonica.com/blog/how-to-create-a-github-profile-readme) is am awesome guide created by Monica Powell that can get you started on creating your own profile README!
