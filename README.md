@@ -41,7 +41,7 @@ Create your repository and add a new file. This is where we will create the resu
   </kbd>
 </p>
 
-Next, name the file "README.md" the "README" section makes it so that it shows up automatically when people look at the file here on GitHub. The ".md" section tells GitHub to make this a Markdown file.
+Next, name the file "README.md". The "README" section sets up your repository so that it shows up automatically when people look at the repo here on GitHub. The ".md" section tells GitHub to make this a Markdown file.
 <p align="center">
   <kbd>
     <img src="./photos/Name_readme.JPG" width=400 align="center">
@@ -80,7 +80,7 @@ Here are some exmaples of excellent personal websites hosted on GitHub pages:
 I also used [this tutorial](http://jmcglone.com/guides/github-pages/) as well when I created my own website.
 
 #### A whole website seeming like too much right now? 
-A simpler idea is to modify your own GitHub profile to showcase you and your skills with a profile README. It's a great way to attract recruiters to your profile before they even see your code (you can even just add your resume to your profile if you want!). 
+A simpler idea is to modify your own GitHub profile to showcase you and your skills with a profile README. Just as the "README" section sets up a repository so that it shows up automatically when people look at it, this profile README shows up right on your GitHub's profile page. It's a great way to attract recruiters to your profile before they even see your code (you can even just add your resume to your profile if you want!). 
 Here are some examples of cool profile READMEs if you need inspiration
    * [Jason Lengstorf's profile](https://github.com/jlengstorf)
    * [Donavon West's profile](https://github.com/donavon)
