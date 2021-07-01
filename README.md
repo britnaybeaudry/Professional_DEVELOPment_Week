@@ -4,7 +4,7 @@
 ### Getting Started
 * What is Markdown?
 * How can I make my resume in Markdown?
-* How can I host my resume (or more) on Github?
+* How can I host my resume (or more) on a Github site?
 
 ### What is Markdown?
 * Markdown is a language that you can use to format text on the web. It's more complicated than a plain .txt document, but less complicated than HTML.
@@ -65,3 +65,23 @@ Here is an example of my resume using a template [(You can check it out here)](h
     <img src="./photos/resume_screenshot.JPG" width=500 align="center">
   </kbd>
 </p>
+
+### How can I host my resume (or more) on a Github site?
+If you want to go even further, you can even host your resume as its own site on GitHub. It's called [GitHub Pages](https://pages.github.com/). 
+With GitHub pages, you can also incorporate HTML and CSS elements. You can make your resume even more complex, add things <em>other</em> than just your resume link a bio, blog posts, and more! The choices are yours.
+ 
+Here are some exmaples of excellent personal websites hosted on GitHub pages:
+  *
+
+[Here](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) is GitHub's guide on getting started with your own GitHub page.
+
+#### A whole website seeming like too much right now? 
+A simpler idea is to modify your own GitHub profile to showcase you and your skills with a profile README. It's a great way to attract recruiters to your profile before they even see your code (you can even just add your resume to your profile if you want!). 
+Here are some examples of cool profile READMEs if you need inspiration
+   * [Jason Lengstorf's profile](https://github.com/jlengstorf)
+   * [Cassidy Williams' profile](https://github.com/cassidoo)
+   * [Donavon West's profile](https://github.com/donavon)
+   * [Cyris' profile](https://github.com/CyrisXD)
+   * Here's [my own](https://github.com/britnaybeaudry) that I created after following the tutorial below!
+   
+[Here](https://aboutmonica.com/blog/how-to-create-a-github-profile-readme) is a guide to get started on creating a profile README on your own page!
