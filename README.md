@@ -8,7 +8,7 @@
 
 ### What is Markdown?
 * Markdown is a language that you can use to format text on the web. It's more complicated than a plain .txt document, but less complicated than HTML.
-* Markdown can be a great way to visualize some writtgen word on the web. In Markdown you can make the text **bold**, <em>italicized</em>, ***both both AND italicized***, and much more! You can even use emojis :alien: :woman_astronaut: :earth_africa: :artificial_satellite:
+* Markdown can be a great way to visualize some written word on the web. In Markdown you can make the text **bold**, <em>italicized</em>, ***both both AND italicized***, and much more! You can even use emojis :alien: :woman_astronaut: :earth_africa: :artificial_satellite:
 * **<em>In fact</em>, this tutorial** is written in Markdown! You can check out what is looks like by going to edit the file (<em>hint: click on the pencil icon up on the right!</em>)
 * Getting started <em>with</em> Markdown
   * GitHub has a basic guide to Markdown's syntax [here](https://guides.github.com/features/mastering-markdown/).
@@ -51,4 +51,10 @@ Next, name the file "README.md" the "README" section makes it so that it shows u
 Now you have a place to get started on the resume!
 
 #### Step 2: Making the resume in Markdown
-* There are a lot of great examples online of resume templates in markdown that you can use. 
+* There are a lot of great examples online of resume templates in markdown that you can use if you don't want to start from scratch.
+  * [This is a simple, easy to fill-in version](https://github.com/habpippin/professional-development/blob/main/resume_template.md)
+  * [This example uses code blocks as a way to highlight projects](https://github.com/aonemd/markdown-resume-template/blob/master/resume.md)
+  * [This example has a nice use of line breaks to separate sections](https://gist.githubusercontent.com/mszep/d3235240cc6653d6eeaa/raw/5904b5dc0e19b983fab48b1398057b707dd6d696/resume) 
+  * You can look for more templates online, or even look into the Markdown language and start from scratch! Using different text sizes, line breaks, and lists can make a great resume unique to your own style.
+
+If you're using a template, paste the text in your README.md file and edit the information to match that on your own resume. Add and delete sections as necessay for your experience, skills, etc. (<em>Hint: If you use the preview function up at the top of your file, you can see what it looks like in real-time!</em>)
