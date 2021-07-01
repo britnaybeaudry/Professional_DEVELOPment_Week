@@ -58,3 +58,10 @@ Now you have a place to get started on the resume!
   * You can look for more templates online, or even look into the Markdown language and start from scratch! Using different text sizes, line breaks, and lists can make a great resume unique to your own style.
 
 If you're using a template, paste the text in your README.md file and edit the information to match that on your own resume. Add and delete sections as necessay for your experience, skills, etc. (<em>Hint: If you use the preview function up at the top of your file, you can see what it looks like in real-time!</em>)
+
+Here is an example of my resume using a template [(You can check it out here)](https://github.com/britnaybeaudry/resume_template)
+<p align="center">
+  <kbd>
+    <img src="./photos/resume_screenshot.JPG" width=500 align="center">
+  </kbd>
+</p>
