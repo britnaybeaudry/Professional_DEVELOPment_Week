@@ -8,8 +8,8 @@
 
 ### What is Markdown?
 * Markdown is a language that you can use to format text on the web. It's more complicated than a plain .txt document, but less complicated than HTML.
-* Markdown can be a great way to visualize some written word on the web. In Markdown you can make the text **bold**, <em>italicized</em>, ***both both AND italicized***, and much more! You can even use emojis :alien: :woman_astronaut: :earth_africa: :artificial_satellite:
-* **<em>In fact</em>, this tutorial** is written in Markdown! You can check out what is looks like by going to edit the file (<em>hint: click on the pencil icon up on the right!</em>)
+* Markdown can be a great way to visualize some written word on the web. In Markdown you can make the text **bold**, <em>italicized</em>, ***both bold AND italicized***, and much more! You can even use emojis :alien: :woman_astronaut: :earth_africa: :artificial_satellite:
+* **<em>In fact</em>, this tutorial** is written in Markdown! You can check out what Markdown looks like by going to edit the file (<em>hint: click on the pencil icon up on the right!</em>)
 * Getting started <em>with</em> Markdown
   * GitHub has a basic guide to Markdown's syntax [here](https://guides.github.com/features/mastering-markdown/).
   * A more in-depth guide to Markdown, covering topics both basic and extended can be found [here](https://www.markdownguide.org/basic-syntax/#paragraphs).
@@ -41,7 +41,7 @@ Create your repository and add a new file. This is where we will create the resu
   </kbd>
 </p>
 
-Next, name the file "README.md" the "README" section makes it so that it shows up automatically when people look at th file here on GitHub. The ".md" section tells GutHub to make this a Markdown file.
+Next, name the file "README.md" the "README" section makes it so that it shows up automatically when people look at the file here on GitHub. The ".md" section tells GitHub to make this a Markdown file.
 <p align="center">
   <kbd>
     <img src="./photos/Name_readme.JPG" width=400 align="center">
@@ -52,7 +52,7 @@ Now you have a place to get started on the resume!
 
 #### Step 2: Making the resume in Markdown
 * There are a lot of great examples online of resume templates in markdown that you can use if you don't want to start from scratch.
-  * [This is a simple, easy to fill-in version](https://github.com/habpippin/professional-development/blob/main/resume_template.md)
+  * [This is a nice, easy to fill-in version](https://github.com/habpippin/professional-development/blob/main/resume_template.md)
   * [This example uses code blocks as a way to highlight projects](https://github.com/aonemd/markdown-resume-template/blob/master/resume.md)
   * [This example has a nice use of line breaks to separate sections](https://gist.githubusercontent.com/mszep/d3235240cc6653d6eeaa/raw/5904b5dc0e19b983fab48b1398057b707dd6d696/resume) 
   * You can look for more templates online, or even look into the Markdown language and start from scratch! Using different text sizes, line breaks, and lists can make a great resume unique to your own style.
@@ -67,8 +67,8 @@ Here is an example of my resume using a template [(You can check it out here)](h
 </p>
 
 ### How can I host my resume (or more) on a Github site?
-If you want to go even further, you can even host your resume as its own site on GitHub. It's called [GitHub Pages](https://pages.github.com/). 
-With GitHub pages, you can also incorporate HTML and CSS elements. You can make your resume even more complex, add things <em>other</em> than just your resume link a bio, blog posts, and more! The choices are yours.
+If you want to go even further, you can even host your resume as a website on GitHub. It's called [GitHub Pages](https://pages.github.com/). 
+With GitHub pages, you can also incorporate HTML and CSS elements. You can make your resume even more complex, add things <em>other</em> than just your resume like a bio, blog posts, and more! The choices are yours.
  
 Here are some exmaples of excellent personal websites hosted on GitHub pages:
   * [A list of open source projects happening on Twiter](http://twitter.github.io/)
@@ -77,7 +77,7 @@ Here are some exmaples of excellent personal websites hosted on GitHub pages:
   * [Karl Broman's website](https://kbroman.org/)
 
 [Here](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) is GitHub's guide on getting started with your own GitHub page.
-I also used [this tutorial](http://jmcglone.com/guides/github-pages/) as well when I created my own.
+I also used [this tutorial](http://jmcglone.com/guides/github-pages/) as well when I created my own website.
 
 #### A whole website seeming like too much right now? 
 A simpler idea is to modify your own GitHub profile to showcase you and your skills with a profile README. It's a great way to attract recruiters to your profile before they even see your code (you can even just add your resume to your profile if you want!). 
@@ -88,4 +88,4 @@ Here are some examples of cool profile READMEs if you need inspiration
    * [Nate Moore's profile](https://github.com/natemoo-re)
    * Here's [my own](https://github.com/britnaybeaudry) that I created after following the tutorial below!
    
-[Here](https://aboutmonica.com/blog/how-to-create-a-github-profile-readme) is am awesome guide created by Monica Powell that can get you started on creating your own profile README!
+[Here](https://aboutmonica.com/blog/how-to-create-a-github-profile-readme) is an awesome guide created by Monica Powell that can get you started on creating your own profile README!
