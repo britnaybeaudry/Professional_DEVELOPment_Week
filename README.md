@@ -57,7 +57,7 @@ Now you have a place to get started on the resume!
   * [This example has a nice use of line breaks to separate sections](https://gist.githubusercontent.com/mszep/d3235240cc6653d6eeaa/raw/5904b5dc0e19b983fab48b1398057b707dd6d696/resume) 
   * You can look for more templates online, or even look into the Markdown language and start from scratch! Using different text sizes, line breaks, and lists can make a great resume unique to your own style.
 
-If you're using a template, paste the text in your README.md file and edit the information to match that on your own resume. Add and delete sections as necessay for your experience, skills, etc. (<em>Hint: If you use the preview function up at the top of your file, you can see what it looks like in real-time!</em>)
+If you're using a template, paste the text in your README.md file and edit the information to match that on your own resume. Add and delete sections as necessary for your experience, skills, etc. (<em>Hint: If you use the preview function up at the top of your file, you can see what it looks like in real-time!</em>)
 
 Here is an example of my resume using a template [(You can check it out here)](https://github.com/britnaybeaudry/resume_template)
 <p align="center">
@@ -70,7 +70,7 @@ Here is an example of my resume using a template [(You can check it out here)](h
 If you want to go even further, you can even host your resume as a website on GitHub. It's called [GitHub Pages](https://pages.github.com/). 
 With GitHub pages, you can also incorporate HTML and CSS elements. You can make your resume even more complex, add things <em>other</em> than just your resume like a bio, blog posts, and more! The choices are yours.
  
-Here are some exmaples of excellent personal websites hosted on GitHub pages:
+Here are some examples of excellent personal websites hosted on GitHub pages:
   * [A list of open source projects happening on Twiter](http://twitter.github.io/)
   * [An easy demo site that shows you the basics of what you can do](http://hankquinlan.github.io/)
   * [Elle Townsend's website](https://www.elletownsend.co.uk/)
@@ -89,3 +89,28 @@ Here are some examples of cool profile READMEs if you need inspiration
    * Here's [my own](https://github.com/britnaybeaudry) that I created after following the tutorial below!
    
 [Here](https://aboutmonica.com/blog/how-to-create-a-github-profile-readme) is an awesome guide created by Monica Powell that can get you started on creating your own profile README!
+
+### What if I want to export my Markdown resume as a PDF?
+Oftentimes job applications will ask you to upload a copy of your resume. But that's hard to do when your resume is only hosted online! Luckily, it's possible to export your Markdown resume as a PDF so the formatting stays consistent and any links stay intact.
+
+#### Step 1: Download and install a Markdown editor
+Creating a Markdown document is very simiilar to creating a standard text file. It's up to you to decide what your preferred editor is! Here are a couple commonly used options: 
+  * [RStudio](https://www.rstudio.com/products/rstudio/download/)
+    * RStudio has a number of options for you to use to create your Markdown document. You can create a pure Markdown document, or you could create an R Markdown document that allows you to execute different chunks of code within your document.
+  * [LaTeX](https://www.latex-project.org/get/)
+    * LaTeX is a document-setting program typically used for scientific or technical documents. It allows you to just type information into a document and it will format it nicely for you! You can create a LaTeX document and save it as a `.md` file to render into a PDF.
+
+Once you install the editor of your choice, copy the raw Markdown text from the resume you created on GitHub and paste it into the editor. Save your document as `resume.md` or similar.
+
+#### Step 2: Turn your `.md` file into a `.pdf` file
+There are a different ways to convert a Markdown document to a PDF. You can read about those options [here](https://gist.github.com/justincbagley/ec0a6334cc86e854715e459349ab1446). Not all of those ways will preserve the look of what is called "GitHub-flavored Markdown" though, so we recommend using `grip`.
+
+  1. Open your Terminal (Mac) or Command Prompt (Windows). Use the `cd` command to navigate to the directory where your `resume.md` file is saved. (Your Desktop is usually the simplest choice.)
+  2. Run the following commands:
+````
+pip install grip
+grip your_resume_file.md
+````
+  3. Copy the `http://localhost:NNNN/` URL that `grip` outputs and paste the address into Chrome. This is where `grip` is hosting your resume.
+  4. Go to **File > Print... > Save as PDF** and adjust the **Paper Size** setting (under "More Settings") so that your resume fits on a single page.
+  5. Name your file `FirstNameLastName_Resume.pdf` so that people will know it's yours!
