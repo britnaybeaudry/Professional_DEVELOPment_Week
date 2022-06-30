@@ -4,7 +4,7 @@
 ### Getting Started
 * What is Markdown?
 * How can I make my resume in Markdown?
-* How can I host my resume (or more) on a Github site?
+* How can I host my resume (or more) on a GitHub site?
 
 ### What is Markdown?
 * Markdown is a language that you can use to format text on the web. It's more complicated than a plain .txt document, but less complicated than HTML.
@@ -66,9 +66,9 @@ Here is an example of my resume using a template [(You can check it out here)](h
   </kbd>
 </p>
 
-### How can I host my resume (or more) on a Github site?
-If you want to go even further, you can even host your resume as a website on GitHub. It's called [GitHub Pages](https://pages.github.com/). 
-With GitHub pages, you can also incorporate HTML and CSS elements. You can make your resume even more complex, add things <em>other</em> than just your resume like a bio, blog posts, and more! The choices are yours.
+### How can I host my resume (or more) on a GitHub site?
+If you want to go even further, you can host your resume as a website on GitHub. It's called [GitHub Pages](https://pages.github.com/). 
+With GitHub pages, you can also incorporate HTML and CSS elements. You can make your resume more complex, add things <em>other</em> than just your resume like a bio, blog posts, and more! The choices are yours.
  
 Here are some examples of excellent personal websites hosted on GitHub pages:
   * [A list of open source projects happening on Twiter](http://twitter.github.io/)
@@ -81,7 +81,7 @@ I also used [this tutorial](http://jmcglone.com/guides/github-pages/) as well wh
 
 #### A whole website seeming like too much right now? 
 A simpler idea is to modify your own GitHub profile to showcase you and your skills with a profile README. Just as the "README" section sets up a repository so that it shows up automatically when people look at it, this profile README shows up right on your GitHub's profile page. It's a great way to attract recruiters to your profile before they even see your code (you can even just add your resume to your profile if you want!). 
-Here are some examples of cool profile READMEs if you need inspiration
+Here are some examples of cool profile READMEs if you need inspiration:
    * [Jason Lengstorf's profile](https://github.com/jlengstorf)
    * [Donavon West's profile](https://github.com/donavon)
    * [Cyris' profile](https://github.com/CyrisXD)
