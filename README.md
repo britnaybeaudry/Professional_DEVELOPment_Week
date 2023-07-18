@@ -65,7 +65,7 @@ Now you have a place to get started on the resume!
 
 If you're using a template, paste the text in your README.md file and edit the information to match that on your own resume. Add and delete sections as necessary for your experience, skills, etc. (<em>Hint: If you use the preview function up at the top of your file, you can see what it looks like in real-time!</em>)
 
-Here is an example of my resume using a template [(You can check it out here)](https://github.com/britnaybeaudry/resume_template)
+Here is an example of my resume using a template [(You can check it out here)](https://github.com/britnaybeaudry/Professional_DEVELOPment_Week/blob/main/resume_example.md)
 <p align="center">
   <kbd>
     <img src="./photos/resume_screenshot.JPG" width=500 align="center">
