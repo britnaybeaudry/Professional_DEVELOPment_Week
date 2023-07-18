@@ -96,10 +96,10 @@ grip your_resume_file.md
   3. Copy the `http://localhost:NNNN/` URL that `grip` outputs and paste the address into Chrome. This is where `grip` is hosting your resume.
   4. Go to **File > Print... > Save as PDF** and adjust the **Paper Size** setting (under "More Settings") so that your resume fits on a single page.
   5. Name your file `FirstNameLastName_Resume.pdf` so that people will know it's yours!
-### You can also host a markdown-style resume online. You can post it on your GitHub, your LinkedIn, or anywhere 
+### You can also host a markdown-style resume online. You can post it on your GitHub, your LinkedIn, or anywhere else you can think of!
 
 ## Making the most of your GitHub Profile
-A simpler idea is to modify your own GitHub profile to showcase you and your skills with a profile README. Just as the "README" section sets up a repository so that it shows up automatically when people look at it, this profile README shows up right on your GitHub's profile page. It's a great way to attract recruiters to your profile before they even see your code (you can even just add your resume to your profile if you want!). 
+Another way to showcase you and your skills is to modify your own GitHub profile with a profile README. Just as the "README" section sets up a repository so that it shows up automatically when people look at it, this profile README shows up right on your GitHub's profile page. It's a great way to attract recruiters to your profile before they even see your code (you can even just add your resume to your profile if you want!). 
 Here are some examples of cool profile READMEs if you need inspiration:
    * [Jason Lengstorf's profile](https://github.com/jlengstorf)
    * [Donavon West's profile](https://github.com/donavon)
@@ -111,13 +111,18 @@ Here are some examples of cool profile READMEs if you need inspiration:
 
 ## How can I host my resume (or more) on a GitHub site?
 If you want to go even further, you can host your resume as a website on GitHub. It's called [GitHub Pages](https://pages.github.com/). 
-With GitHub pages, you can also incorporate HTML and CSS elements. You can make your resume more complex, add things <em>other</em> than just your resume like a bio, blog posts, and more! The choices are yours.
+With GitHub pages, you can also incorporate HTML and CSS elements. You can make your resume more complex, add things <em>other</em> than just your resume like a bio, blog posts, and more! The choices are endless, and they are yours.
  
 Here are some examples of excellent personal websites hosted on GitHub pages:
   * [A list of open source projects happening on Twitter](http://twitter.github.io/)
   * [An easy demo site that shows you the basics of what you can do](http://hankquinlan.github.io/)
   * [Elle Townsend's website](https://www.elletownsend.co.uk/)
   * [Karl Broman's website](https://kbroman.org/)
+  * [Caroline William's website](https://cawilliams719.github.io/)
 
 [Here](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) is GitHub's guide on getting started with your own GitHub page.
-I also used [this tutorial](http://jmcglone.com/guides/github-pages/) as well when I created my own website.
+I also used [this tutorial](http://jmcglone.com/guides/github-pages/) as well when I created my first website.
+
+You can also get started with some :skull:skeleton code:skull:. Skeleton code usualy refers to a framework that has the foundation or "skeleton" already prepared. In this case, there are examples of pre-made website templates available. All you need to do is follow their directions and provide your own text, images, etc. to have your own site! Some cost money and some are free, but you can check out some options here: https://startbootstrap.com/themes/portfolio-resume 
+
+Even [my current GitHub Pages website](https://britnaybeaudry.github.io/) started from skeleton code. You won't get nearly as much hands-on coding experience as you would from making a website from scratch, but it's still a great option.
