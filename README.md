@@ -1,10 +1,15 @@
-# Professional DEVELOPment Week: Markdown Resume Tips & Tricks!
-## Learn how to write your resume in Markdown and host it on GitHub. Create a clean, readable, editable resume that is easy to share with recruiters!
+# Professional DEVELOPment Week: How to Showcase Your Skills Online
+### What happens when you Google your name? Want to impress recruiters, hiring committees, and more with examples of your work? The following document covers a few ways we can showcase our skills online (and learn some coding basics along the way!)
 
-### Getting Started
+# What We'll Explore:
+* How to create a resume in Markdown
+* Making the most of your GitHub Profile
+* How to host your own website on GitHub Pages
+
+## Create a Resume in Markdown
 * What is Markdown?
 * How can I make my resume in Markdown?
-* How can I host my resume (or more) on a GitHub site?
+* What can I do with a Markdown-style resume?
 
 ### What is Markdown?
 * Markdown is a language that you can use to format text on the web. It's more complicated than a plain .txt document, but less complicated than HTML.
@@ -19,6 +24,7 @@
 * Things you will need:
      - [x] [A GitHub account](https://github.com/)
      - [x] Information for your resume
+ 
 #### Step 1: Making a place on GitHub for your resume
 If you're new to GitHub, have no fear! In order to start the process for hosting your resume on here, you need to create a new repository. You can do that by clicking the new button up here at the top of the page, circled in red in the image below. You can also see a step-by-step guide [here](https://docs.github.com/en/get-started/quickstart/create-a-repo).
 <p align="center">
@@ -66,31 +72,7 @@ Here is an example of my resume using a template [(You can check it out here)](h
   </kbd>
 </p>
 
-### How can I host my resume (or more) on a GitHub site?
-If you want to go even further, you can host your resume as a website on GitHub. It's called [GitHub Pages](https://pages.github.com/). 
-With GitHub pages, you can also incorporate HTML and CSS elements. You can make your resume more complex, add things <em>other</em> than just your resume like a bio, blog posts, and more! The choices are yours.
- 
-Here are some examples of excellent personal websites hosted on GitHub pages:
-  * [A list of open source projects happening on Twiter](http://twitter.github.io/)
-  * [An easy demo site that shows you the basics of what you can do](http://hankquinlan.github.io/)
-  * [Elle Townsend's website](https://www.elletownsend.co.uk/)
-  * [Karl Broman's website](https://kbroman.org/)
-
-[Here](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) is GitHub's guide on getting started with your own GitHub page.
-I also used [this tutorial](http://jmcglone.com/guides/github-pages/) as well when I created my own website.
-
-#### A whole website seeming like too much right now? 
-A simpler idea is to modify your own GitHub profile to showcase you and your skills with a profile README. Just as the "README" section sets up a repository so that it shows up automatically when people look at it, this profile README shows up right on your GitHub's profile page. It's a great way to attract recruiters to your profile before they even see your code (you can even just add your resume to your profile if you want!). 
-Here are some examples of cool profile READMEs if you need inspiration:
-   * [Jason Lengstorf's profile](https://github.com/jlengstorf)
-   * [Donavon West's profile](https://github.com/donavon)
-   * [Cyris' profile](https://github.com/CyrisXD)
-   * [Nate Moore's profile](https://github.com/natemoo-re)
-   * Here's [my own](https://github.com/britnaybeaudry) that I created after following the tutorial below!
-   
-[Here](https://aboutmonica.com/blog/how-to-create-a-github-profile-readme) is an awesome guide created by Monica Powell that can get you started on creating your own profile README!
-
-### What if I want to export my Markdown resume as a PDF?
+### What can I do with a Markdown-style resume? (Exporting your Markdown resume as a PDF)
 Oftentimes job applications will ask you to upload a copy of your resume. But that's hard to do when your resume is only hosted online! Luckily, it's possible to export your Markdown resume as a PDF so the formatting stays consistent and any links stay intact.
 
 #### Step 1: Download and install a Markdown editor
@@ -114,3 +96,28 @@ grip your_resume_file.md
   3. Copy the `http://localhost:NNNN/` URL that `grip` outputs and paste the address into Chrome. This is where `grip` is hosting your resume.
   4. Go to **File > Print... > Save as PDF** and adjust the **Paper Size** setting (under "More Settings") so that your resume fits on a single page.
   5. Name your file `FirstNameLastName_Resume.pdf` so that people will know it's yours!
+### You can also host a markdown-style resume online. You can post it on your GitHub, your LinkedIn, or anywhere 
+
+## Making the most of your GitHub Profile
+A simpler idea is to modify your own GitHub profile to showcase you and your skills with a profile README. Just as the "README" section sets up a repository so that it shows up automatically when people look at it, this profile README shows up right on your GitHub's profile page. It's a great way to attract recruiters to your profile before they even see your code (you can even just add your resume to your profile if you want!). 
+Here are some examples of cool profile READMEs if you need inspiration:
+   * [Jason Lengstorf's profile](https://github.com/jlengstorf)
+   * [Donavon West's profile](https://github.com/donavon)
+   * [Cyris' profile](https://github.com/CyrisXD)
+   * [Nate Moore's profile](https://github.com/natemoo-re)
+   * Here's [my own](https://github.com/britnaybeaudry) that I created after following the tutorial below!
+   
+[Here](https://aboutmonica.com/blog/how-to-create-a-github-profile-readme) is an awesome guide created by Monica Powell that can get you started on creating your own profile README!
+
+## How can I host my resume (or more) on a GitHub site?
+If you want to go even further, you can host your resume as a website on GitHub. It's called [GitHub Pages](https://pages.github.com/). 
+With GitHub pages, you can also incorporate HTML and CSS elements. You can make your resume more complex, add things <em>other</em> than just your resume like a bio, blog posts, and more! The choices are yours.
+ 
+Here are some examples of excellent personal websites hosted on GitHub pages:
+  * [A list of open source projects happening on Twitter](http://twitter.github.io/)
+  * [An easy demo site that shows you the basics of what you can do](http://hankquinlan.github.io/)
+  * [Elle Townsend's website](https://www.elletownsend.co.uk/)
+  * [Karl Broman's website](https://kbroman.org/)
+
+[Here](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) is GitHub's guide on getting started with your own GitHub page.
+I also used [this tutorial](http://jmcglone.com/guides/github-pages/) as well when I created my own website.
