@@ -76,7 +76,7 @@ Here is an example of my resume using a template [(You can check it out here)](h
 Oftentimes job applications will ask you to upload a copy of your resume. But that's hard to do when your resume is only hosted online! Luckily, it's possible to export your Markdown resume as a PDF so the formatting stays consistent and any links stay intact.
 
 #### Step 1: Download and install a Markdown editor
-Creating a Markdown document is very simiilar to creating a standard text file. It's up to you to decide what your preferred editor is! Here are a couple commonly used options: 
+Creating a Markdown document is very similar to creating a standard text file. It's up to you to decide what your preferred editor is! Here are a couple commonly used options: 
   * [RStudio](https://www.rstudio.com/products/rstudio/download/)
     * RStudio has a number of options for you to use to create your Markdown document. You can create a pure Markdown document, or you could create an R Markdown document that allows you to execute different chunks of code within your document.
   * [LaTeX](https://www.latex-project.org/get/)
